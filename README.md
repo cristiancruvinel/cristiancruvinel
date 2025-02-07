@@ -1,4 +1,4 @@
 ### Olá, meu nome é Cristian !!!
 
-- 🔭 Atualmente estou trabalhando: Suporte Técnico - GS Transportes
+- 🔭 Atualmente estou trabalhando: Assistente de Suporte ERP - Aliare
 - 🌱 Atualmente estudando: Python
